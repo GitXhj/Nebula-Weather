@@ -1,5 +1,5 @@
 # Nebula Weather
-![image](./Pictures.png)
+![image](https://static.codemao.cn/9757760285/S1gVlSxggg.jpg)
 ## 简介
 这是一个调用OpenWeatherMap的网页天气应用，在代码中输入你的OpenWeatherMap密钥即可使用！
 
