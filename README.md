@@ -4,7 +4,6 @@
 这是一个调用OpenWeatherMap的网页天气应用，在代码中输入你的OpenWeatherMap密钥即可使用！
 
 ## 特点
-- Material Design设计
 - 具有交互动画与天气动画
 
 ## 如何使用
